@@ -1,4 +1,4 @@
-# Docker Guide for Beginners: Running a Python Flask Application
+# Docker Guide: Running a Python Flask Application
 
 ## Part 1: Setting Up Python and Virtual Environments
 
