@@ -97,7 +97,7 @@ You should see `python_flask` listed among the images.
 ### Step 4: Run the Docker Container
 Run the container with:
 ```bash
-docker run -p 5000:5000 python_flask
+docker run --name python_flask_test -p 5000:5000 python_flask
 ```
 This command starts the container and maps port 5000 on your host to port 5000 in the container.
 
