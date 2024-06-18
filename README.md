@@ -77,6 +77,12 @@ You should see the Docker version information if the installation was successful
 
 ## Part 3: Building and Running the Docker Container
 
+### Step 0.1: Docker Commands
+Please follow this link [Docker Commands](docker_commands.md)
+
+### Step 0.2: Docker Options
+Please follow this link [Docker Options](docker_options.md)
+
 ### Step 1: Inspect the Dockerfile
 The `Dockerfile` in your project directory defines how your Docker image will be built. It typically includes instructions like the base image to use, the dependencies to install, and how to start the application.
 
